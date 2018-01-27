@@ -36,14 +36,16 @@
     "noImageResize": "",
     "versionFirst": "4.6.3",
     "uniqCompNum": 8,
-    "versionPublish": "4.6.3"
+    "versionPublish": "4.6.3",
+    "cookiesAlert": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Compass Home",
+        "meta_descr": "\"The print industry's premier source for proposal and quote generation, print management, MPS, CRM, and sales ERP software. Outstanding tools, personnel, and support, as well as significant experience make Compass the industry expert for you. Find out what we’re all about and start improving your operation today!\"",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
