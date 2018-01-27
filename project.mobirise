@@ -708,8 +708,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/slide11-940x486.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/depositphotos-1147111-xl-2000x1465.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -720,12 +720,12 @@
                 "customStyle3": "display-4",
                 "title": "<b>SALES ERP&nbsp;</b><br>AUTOMATING THE <br>ENTIRE SALES PROCESS<br>",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide2-940x486.jpg",
+                "image": "@PROJECT_PATH@/assets/images/depositphotos-34100137-xl-2000x1562.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -739,11 +739,12 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "UNCOVER OPPORTUNITIES INCREASE REVENUE",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+                "overlayOpacity": "0.7"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide4-940x486.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/depositphotos-11035116-original-2000x1248.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -756,7 +757,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "INDUSTRY SPECIFIC CRM &amp; PROPOSAL GENERATION",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Learn more</a>",
+                "overlayOpacity": "0.6"
               }
             ]
           }
