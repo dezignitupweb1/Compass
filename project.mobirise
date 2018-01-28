@@ -708,7 +708,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/depositphotos-1147111-xl-2000x1465.jpg",
+                "image": "@PROJECT_PATH@/assets/images/depositphotos-29248193-original-2000x1333.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
