@@ -2747,12 +2747,13 @@ body {
   color: #ffffff;
 }
 .cid-qI4t1paDNR {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background: #0f7699;
   background: linear-gradient(45deg, #0f7699, #ffffff);
 }
 .cid-qI4t1paDNR .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qI4t1paDNR .video-block {
