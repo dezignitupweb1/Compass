@@ -18635,7 +18635,12 @@ body {
 .cid-qIaW3RE1uh {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-qIaW3RE1uh H3 {
+  text-align: center;
+}
+.cid-qIaW3RE1uh H2 {
+  text-align: center;
 }
 .cid-qIaVpeo1Qb {
   padding-top: 90px;
@@ -18732,11 +18737,11 @@ body {
   }
 }
 .cid-qIaX7wubbS {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 75px;
+  padding-bottom: 75px;
 }
 .cid-qIaX7wubbS .card-box {
-  background-color: #ffffff;
+  background-color: #efefef;
   padding: 2rem;
 }
 .cid-qIaX7wubbS h4 {
